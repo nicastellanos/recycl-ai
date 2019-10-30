@@ -1,0 +1,9 @@
+/Users/ncastellanos/tensorflow/examples/lite/examples/image_classification/ios/ImageClassification/ViewControllers/ViewController.swift
+/Users/ncastellanos/tensorflow/examples/lite/examples/image_classification/ios/ImageClassification/Views/CurvedView.swift
+/Users/ncastellanos/tensorflow/examples/lite/examples/image_classification/ios/ImageClassification/Camera\ Feed/PreviewView.swift
+/Users/ncastellanos/tensorflow/examples/lite/examples/image_classification/ios/ImageClassification/Camera\ Feed/CameraFeedManager.swift
+/Users/ncastellanos/tensorflow/examples/lite/examples/image_classification/ios/ImageClassification/Extensions/CVPixelBufferExtension.swift
+/Users/ncastellanos/tensorflow/examples/lite/examples/image_classification/ios/ImageClassification/Cells/InfoCell.swift
+/Users/ncastellanos/tensorflow/examples/lite/examples/image_classification/ios/ImageClassification/ModelDataHandler/ModelDataHandler.swift
+/Users/ncastellanos/tensorflow/examples/lite/examples/image_classification/ios/ImageClassification/ViewControllers/InferenceViewController.swift
+/Users/ncastellanos/tensorflow/examples/lite/examples/image_classification/ios/ImageClassification/AppDelegate.swift

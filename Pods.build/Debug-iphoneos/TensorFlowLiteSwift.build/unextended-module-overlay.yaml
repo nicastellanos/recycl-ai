@@ -1,0 +1,13 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': "/Users/ncastellanos/tensorflow/examples/lite/examples/image_classification/ios/Debug-iphoneos/TensorFlowLiteSwift/TensorFlowLite.framework/Modules"
+    'contents': [{
+      'type': 'file',
+      'name': "module.modulemap",
+      'external-contents': "/Users/ncastellanos/tensorflow/examples/lite/examples/image_classification/ios/Pods.build/Debug-iphoneos/TensorFlowLiteSwift.build/unextended-module.modulemap",
+    }]
+  }]
+}

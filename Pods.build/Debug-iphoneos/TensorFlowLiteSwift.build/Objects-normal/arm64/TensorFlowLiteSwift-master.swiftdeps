@@ -1,0 +1,11 @@
+version: "Apple Swift version 5.1 (swiftlang-1100.0.270.13 clang-1100.0.33.7)"
+options: "af4117a5aa0898c414f1de3e494b6dd9"
+build_time: [1572403140, 132608000]
+inputs:
+  "/Users/ncastellanos/tensorflow/examples/lite/examples/image_classification/ios/Pods/TensorFlowLiteSwift/tensorflow/lite/experimental/swift/Sources/Interpreter.swift": [1572402604, 579807770]
+  "/Users/ncastellanos/tensorflow/examples/lite/examples/image_classification/ios/Pods/TensorFlowLiteSwift/tensorflow/lite/experimental/swift/Sources/InterpreterError.swift": [1572402604, 552309578]
+  "/Users/ncastellanos/tensorflow/examples/lite/examples/image_classification/ios/Pods/TensorFlowLiteSwift/tensorflow/lite/experimental/swift/Sources/InterpreterOptions.swift": [1572402604, 414524371]
+  "/Users/ncastellanos/tensorflow/examples/lite/examples/image_classification/ios/Pods/TensorFlowLiteSwift/tensorflow/lite/experimental/swift/Sources/Model.swift": [1572402604, 469750044]
+  "/Users/ncastellanos/tensorflow/examples/lite/examples/image_classification/ios/Pods/TensorFlowLiteSwift/tensorflow/lite/experimental/swift/Sources/QuantizationParameters.swift": [1572402604, 441908973]
+  "/Users/ncastellanos/tensorflow/examples/lite/examples/image_classification/ios/Pods/TensorFlowLiteSwift/tensorflow/lite/experimental/swift/Sources/Tensor.swift": [1572402604, 497139743]
+  "/Users/ncastellanos/tensorflow/examples/lite/examples/image_classification/ios/Pods/TensorFlowLiteSwift/tensorflow/lite/experimental/swift/Sources/TensorFlowLite.swift": [1572402604, 525171030]

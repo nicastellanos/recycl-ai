@@ -1,0 +1,13 @@
+version: "Apple Swift version 5.1 (swiftlang-1100.0.270.13 clang-1100.0.33.7)"
+options: "1bac55b947f966122ecd899f8bd12c42"
+build_time: [1572407766, 829763000]
+inputs:
+  "/Users/ncastellanos/tensorflow/examples/lite/examples/image_classification/ios/ImageClassification/ViewControllers/ViewController.swift": [1572401044, 845007093]
+  "/Users/ncastellanos/tensorflow/examples/lite/examples/image_classification/ios/ImageClassification/Views/CurvedView.swift": [1572401044, 850997981]
+  "/Users/ncastellanos/tensorflow/examples/lite/examples/image_classification/ios/ImageClassification/Camera Feed/PreviewView.swift": [1572401044, 577952138]
+  "/Users/ncastellanos/tensorflow/examples/lite/examples/image_classification/ios/ImageClassification/Camera Feed/CameraFeedManager.swift": [1572401044, 544574707]
+  "/Users/ncastellanos/tensorflow/examples/lite/examples/image_classification/ios/ImageClassification/Extensions/CVPixelBufferExtension.swift": [1572401044, 604813626]
+  "/Users/ncastellanos/tensorflow/examples/lite/examples/image_classification/ios/ImageClassification/Cells/InfoCell.swift": [1572401044, 591050592]
+  "/Users/ncastellanos/tensorflow/examples/lite/examples/image_classification/ios/ImageClassification/ModelDataHandler/ModelDataHandler.swift": [1572407766, 470812616]
+  "/Users/ncastellanos/tensorflow/examples/lite/examples/image_classification/ios/ImageClassification/ViewControllers/InferenceViewController.swift": [1572401044, 803301335]
+  "/Users/ncastellanos/tensorflow/examples/lite/examples/image_classification/ios/ImageClassification/AppDelegate.swift": [1572401044, 316827564]

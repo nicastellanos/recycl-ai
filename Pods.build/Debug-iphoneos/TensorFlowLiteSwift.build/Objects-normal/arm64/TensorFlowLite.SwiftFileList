@@ -1,0 +1,7 @@
+/Users/ncastellanos/tensorflow/examples/lite/examples/image_classification/ios/Pods/TensorFlowLiteSwift/tensorflow/lite/experimental/swift/Sources/Interpreter.swift
+/Users/ncastellanos/tensorflow/examples/lite/examples/image_classification/ios/Pods/TensorFlowLiteSwift/tensorflow/lite/experimental/swift/Sources/InterpreterError.swift
+/Users/ncastellanos/tensorflow/examples/lite/examples/image_classification/ios/Pods/TensorFlowLiteSwift/tensorflow/lite/experimental/swift/Sources/InterpreterOptions.swift
+/Users/ncastellanos/tensorflow/examples/lite/examples/image_classification/ios/Pods/TensorFlowLiteSwift/tensorflow/lite/experimental/swift/Sources/Model.swift
+/Users/ncastellanos/tensorflow/examples/lite/examples/image_classification/ios/Pods/TensorFlowLiteSwift/tensorflow/lite/experimental/swift/Sources/QuantizationParameters.swift
+/Users/ncastellanos/tensorflow/examples/lite/examples/image_classification/ios/Pods/TensorFlowLiteSwift/tensorflow/lite/experimental/swift/Sources/Tensor.swift
+/Users/ncastellanos/tensorflow/examples/lite/examples/image_classification/ios/Pods/TensorFlowLiteSwift/tensorflow/lite/experimental/swift/Sources/TensorFlowLite.swift
