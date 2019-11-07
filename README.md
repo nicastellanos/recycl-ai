@@ -1,8 +1,7 @@
 # recycl-ai
-##IOS Application for classifying garbage
+## IOS Application for classifying garbage
 
 This is my first attempt at a Machine Learning project
-
 
 Built from the TensorFlow IOS Demo
 
@@ -14,7 +13,7 @@ https://www.kaggle.com/asdasdasasdas/garbage-classification
 
 and converted to a TFLite Model for IOS :) 
 
-Currently accuracy is garbage and as such next iteration will use the 
+Currently accuracy is garbage at best and as such next iteration will use the http://tacodataset.org 
+
 (and hopefully i will be better at this)
 
-http://tacodataset.org 
