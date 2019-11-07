@@ -1,6 +1,6 @@
 version: "Apple Swift version 5.1 (swiftlang-1100.0.270.13 clang-1100.0.33.7)"
 options: "1bac55b947f966122ecd899f8bd12c42"
-build_time: [1572407766, 829763000]
+build_time: [1572467888, 354331000]
 inputs:
   "/Users/ncastellanos/tensorflow/examples/lite/examples/image_classification/ios/ImageClassification/ViewControllers/ViewController.swift": [1572401044, 845007093]
   "/Users/ncastellanos/tensorflow/examples/lite/examples/image_classification/ios/ImageClassification/Views/CurvedView.swift": [1572401044, 850997981]

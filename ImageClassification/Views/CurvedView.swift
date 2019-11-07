@@ -18,7 +18,7 @@ import UIKit
  */
 class CurvedView: UIView {
 
-  let cornerRadius: CGFloat = 24.0
+    let cornerRadius: CGFloat = 1.0
 
   override func layoutSubviews() {
     super.layoutSubviews()
