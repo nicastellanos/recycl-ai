@@ -11,9 +11,9 @@ Retrained mobilenets_v2 model with dataset from
 
 https://www.kaggle.com/asdasdasasdas/garbage-classification
 
-and converted to a TFLite Model for IOS :) 
+and converted to a TFLite Model for IOS
 
-Currently accuracy is garbage at best and as such next iteration will use the http://tacodataset.org 
+Currently accuracy is low and as such next iteration will use the http://tacodataset.org 
 
 (and hopefully i will be better at this)
 
